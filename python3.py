@@ -19,5 +19,8 @@ for i in array:
   elif i.find("Sep") != -1 and i.find("1995") !=-1:
     count += 1
     array[count] = i
-  elif i.find("Oct") 
+  elif i.find("Oct") != -1 and i.find("1995") !=-1:
+    count += 1
     
+countall = len(array)
+   
