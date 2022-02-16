@@ -14,3 +14,10 @@ for i in array:
     count += 1
   elif i.find("Jul") != -1 and i.find("1995") !=-1:
     count += 1
+  elif i.find("Aug") != -1 and i.find("1995") !=-1:
+    count += 1
+  elif i.find("Sep") != -1 and i.find("1995") !=-1:
+    count += 1
+    array[count] = i
+  elif i.find("Oct") 
+    
