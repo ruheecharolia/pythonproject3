@@ -25,4 +25,4 @@ for i in array:
 countall = len(array)
    
 print("Total Number of Requests in the past six months:",)
-print("Total Number of Requests:", countall)
+print("Total Number of Requests: ", countall)
