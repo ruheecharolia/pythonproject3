@@ -12,3 +12,5 @@ for i in array:
     count += 1
   elif i.find("Jun") != -1 and i.find("1995") !=-1:
     count += 1
+  elif i.find("Jul") != -1 and i.find("1995") !=-1:
+    count += 1
